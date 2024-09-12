@@ -7,8 +7,8 @@ num2 = float(input("Enter the second number: "))
 if operator == "+":
     result = num1 + num2
 elif operator =="-":
-    pass
+    result = num1 - num2
 elif operator =="*":
-    pass
+    result = num1 * num2
 elif operator =="/":
-    pass
+    result = num1 / num2
