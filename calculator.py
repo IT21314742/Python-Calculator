@@ -6,3 +6,5 @@ num2 = float(input("Enter the second number: "))
 
 if operator == "+":
     pass
+elif operator =="-":
+    pass
